@@ -1,7 +1,7 @@
 {
-  "name": "react-default-template",
-  "version": "0.0.3",
-  "description": "My personal start template to create a React project",
+  "name": "heladit000-portfolio",
+  "version": "0.0.4",
+  "description": "my profesional portfolio",
   "main": "webpack.config.dev.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",

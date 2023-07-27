@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="1404.8899px" height="484.563px" viewBox="0 0 1404.8899 484.563" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB" id="filter_1">
+      <feFlood flood-opacity="0" result="BackgroundImageFix" />
+      <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 128 0" />
+      <feMorphology radius="2" operator="dilate" in="SourceAlpha" result="effect0_dropShadow" />
+      <feOffset dx="-1" dy="4" />
+      <feGaussianBlur stdDeviation="4.5" />
+      <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.49803922 0" />
+      <feBlend mode="normal" in2="BackgroundImageFix" result="effect0_dropShadow" />
+      <feBlend mode="normal" in="SourceGraphic" in2="effect0_dropShadow" result="shape" />
+    </filter>
+    <filter filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB" id="filter_2">
+      <feFlood flood-opacity="0" result="BackgroundImageFix" />
+      <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
+      <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 128 0" result="hardAlpha" />
+      <feMorphology radius="2" operator="erode" in="SourceAlpha" result="effect0_innerShadow" />
+      <feOffset dx="0" dy="1" />
+      <feGaussianBlur stdDeviation="3" />
+      <feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1" />
+      <feColorMatrix type="matrix" values="0 0 0 0 0.09803922 0 0 0 0 0.09803922 0 0 0 0 0.09803922 0 0 0 0.49803922 0" />
+      <feBlend mode="normal" in2="shape" result="effect0_innerShadow" />
+    </filter>
+    <path d="M22.2227 19.1571C22.2227 14.5017 25.9966 10.7278 30.652 10.7278C35.3074 10.7278 39.0814 14.5017 39.0814 19.1571C39.0814 23.8125 35.3074 27.5865 30.652 27.5865C25.9966 27.5865 22.2227 23.8125 22.2227 19.1571Z" id="path_1" />
+    <path d="M62.6873 59.4238C62.6873 54.7684 66.4612 50.9944 71.1166 50.9944C75.772 50.9944 79.546 54.7684 79.546 59.4238C79.546 64.0792 75.772 67.8531 71.1166 67.8531C66.4612 67.8531 62.6873 64.0792 62.6873 59.4238Z" id="path_2" />
+    <path d="M19.8621 60.4445C19.8621 55.7891 23.636 52.0151 28.2914 52.0151C32.9468 52.0151 36.7208 55.7891 36.7208 60.4445C36.7208 65.0999 32.9468 68.8738 28.2914 68.8738C23.636 68.8738 19.8621 65.0999 19.8621 60.4445Z" id="path_3" />
+    <path d="M63.2585 19.5478C63.2585 14.8924 67.0325 11.1184 71.6879 11.1184C76.3433 11.1184 80.1172 14.8924 80.1172 19.5478C80.1172 24.2032 76.3433 27.9771 71.6879 27.9771C67.0325 27.9771 63.2585 24.2032 63.2585 19.5478Z" id="path_4" />
+    <path d="M102.684 59.7711C102.684 55.1157 106.458 51.3417 111.114 51.3417C115.769 51.3417 119.543 55.1157 119.543 59.7711C119.543 64.4265 115.769 68.2004 111.114 68.2004C106.458 68.2004 102.684 64.4265 102.684 59.7711Z" id="path_5" />
+    <path d="M100.89 21.2544C100.89 16.599 104.664 12.825 109.319 12.825C113.975 12.825 117.749 16.599 117.749 21.2544C117.749 25.9098 113.975 29.6837 109.319 29.6837C104.664 29.6837 100.89 25.9098 100.89 21.2544Z" id="path_6" />
+    <path d="M19.8618 60.4452C19.8618 55.7898 23.6357 52.0159 28.2911 52.0159C32.9465 52.0159 36.7205 55.7898 36.7205 60.4452C36.7205 65.1006 32.9465 68.8746 28.2911 68.8746C23.6357 68.8746 19.8618 65.1006 19.8618 60.4452Z" id="path_7" />
+    <path d="M100.89 21.255C100.89 16.5996 104.664 12.8257 109.319 12.8257C113.975 12.8257 117.749 16.5996 117.749 21.255C117.749 25.9104 113.975 29.6844 109.319 29.6844C104.664 29.6844 100.89 25.9104 100.89 21.255Z" id="path_8" />
+    <path d="M22.2224 19.1574C22.2224 14.502 25.9963 10.728 30.6517 10.728C35.3071 10.728 39.081 14.502 39.081 19.1574C39.081 23.8128 35.3071 27.5867 30.6517 27.5867C25.9963 27.5867 22.2224 23.8128 22.2224 19.1574Z" id="path_9" />
+    <path d="M61.7316 39.05C61.7316 34.3946 65.5056 30.6206 70.161 30.6206C74.8164 30.6206 78.5903 34.3946 78.5903 39.05C78.5903 43.7054 74.8164 47.4793 70.161 47.4793C65.5056 47.4793 61.7316 43.7054 61.7316 39.05Z" id="path_10" />
+    <path d="M102.684 59.7714C102.684 55.116 106.458 51.342 111.113 51.342C115.769 51.342 119.543 55.116 119.543 59.7714C119.543 64.4268 115.769 68.2007 111.113 68.2007C106.458 68.2007 102.684 64.4268 102.684 59.7714Z" id="path_11" />
+    <path d="M61.7312 39.0502C61.7312 34.3948 65.5051 30.6208 70.1605 30.6208C74.8159 30.6208 78.5899 34.3948 78.5899 39.0502C78.5899 43.7056 74.8159 47.4795 70.1605 47.4795C65.5051 47.4795 61.7312 43.7056 61.7312 39.0502Z" id="path_12" />
+    <path d="M22.2229 19.1579C22.2229 14.5025 25.9968 10.7285 30.6522 10.7285C35.3076 10.7285 39.0816 14.5025 39.0816 19.1579C39.0816 23.8133 35.3076 27.5872 30.6522 27.5872C25.9968 27.5872 22.2229 23.8133 22.2229 19.1579Z" id="path_13" />
+    <path d="M67.574 39.8181C67.574 35.1627 71.3479 31.3887 76.0033 31.3887C80.6587 31.3887 84.4327 35.1627 84.4327 39.8181C84.4327 44.4735 80.6587 48.2474 76.0033 48.2474C71.3479 48.2474 67.574 44.4735 67.574 39.8181Z" id="path_14" />
+    <path d="M102.685 19.9242C102.685 15.2688 106.459 11.4949 111.114 11.4949C115.77 11.4949 119.544 15.2688 119.544 19.9242C119.544 24.5796 115.77 28.3536 111.114 28.3536C106.459 28.3536 102.685 24.5796 102.685 19.9242Z" id="path_15" />
+    <path d="M102.685 59.7718C102.685 55.1164 106.459 51.3424 111.114 51.3424C115.77 51.3424 119.544 55.1164 119.544 59.7718C119.544 64.4272 115.77 68.2011 111.114 68.2011C106.459 68.2011 102.685 64.4272 102.685 59.7718Z" id="path_16" />
+    <path d="M22.2228 19.1576C22.2228 14.5022 25.9967 10.7283 30.6521 10.7283C35.3075 10.7283 39.0815 14.5022 39.0815 19.1576C39.0815 23.813 35.3075 27.587 30.6521 27.587C25.9967 27.587 22.2228 23.813 22.2228 19.1576Z" id="path_17" />
+    <path d="M22.9891 59.7716C22.9891 55.1162 26.7631 51.3423 31.4185 51.3423C36.0739 51.3423 39.8478 55.1162 39.8478 59.7716C39.8478 64.427 36.0739 68.201 31.4185 68.201C26.7631 68.201 22.9891 64.427 22.9891 59.7716Z" id="path_18" />
+    <path d="M102.685 19.924C102.685 15.2686 106.459 11.4946 111.114 11.4946C115.769 11.4946 119.543 15.2686 119.543 19.924C119.543 24.5794 115.769 28.3533 111.114 28.3533C106.459 28.3533 102.685 24.5794 102.685 19.924Z" id="path_19" />
+    <path d="M102.685 59.7716C102.685 55.1162 106.459 51.3423 111.114 51.3423C115.769 51.3423 119.543 55.1162 119.543 59.7716C119.543 64.427 115.769 68.201 111.114 68.201C106.459 68.201 102.685 64.427 102.685 59.7716Z" id="path_20" />
+    <path d="M22.2227 19.1575C22.2227 14.5021 25.9966 10.7281 30.652 10.7281C35.3074 10.7281 39.0814 14.5021 39.0814 19.1575C39.0814 23.8129 35.3074 27.5868 30.652 27.5868C25.9966 27.5868 22.2227 23.8129 22.2227 19.1575Z" id="path_21" />
+    <path d="M61.7314 39.05C61.7314 34.3946 65.5054 30.6207 70.1608 30.6207C74.8162 30.6207 78.5901 34.3946 78.5901 39.05C78.5901 43.7054 74.8162 47.4794 70.1608 47.4794C65.5054 47.4794 61.7314 43.7054 61.7314 39.05Z" id="path_22" />
+    <path d="M102.684 59.7716C102.684 55.1162 106.458 51.3422 111.114 51.3422C115.769 51.3422 119.543 55.1162 119.543 59.7716C119.543 64.427 115.769 68.2009 111.114 68.2009C106.458 68.2009 102.684 64.427 102.684 59.7716Z" id="path_23" />
+  </defs>
+  <g id="Dominoes">
+    <g id="Domino-5" transform="matrix(0.60181504 0.79863554 -0.79863554 0.60181504 1202.3546 82.65259)">
+      <path d="M0.000244141 -6.10352e-05L141 -6.10352e-05L141 78.163L0.000244141 78.163L0.000244141 -6.10352e-05Z" id="Rectangle" fill="#4D4D4F" fill-rule="evenodd" stroke="none" filter="url(#filter_1)" />
+      <g id="Oval">
+        <use stroke="none" fill="#FFFFFF" xlink:href="#path_1" fill-rule="evenodd" filter="url(#filter_2)" />
+      </g>
+      <g id="Oval-2">
+        <use stroke="none" fill="#FFFFFF" xlink:href="#path_2" fill-rule="evenodd" filter="url(#filter_2)" />
+      </g>
+      <g id="Oval-4">
+        <use stroke="none" fill="#FFFFFF" xlink:href="#path_3" fill-rule="evenodd" filter="url(#filter_2)" />
+      </g>
+      <g id="Oval-5">
+        <use stroke="none" fill="#FFFFFF" xlink:href="#path_4" fill-rule="evenodd" filter="url(#filter_2)" />
+      </g>
+      <g id="Oval-3">
+        <use stroke="none" fill="#FFFFFF" xlink:href="#path_5" fill-rule="evenodd" filter="url(#filter_2)" />
+      </g>
+      <g id="Oval-6">
+        <use stroke="none" fill="#FFFFFF" xlink:href="#path_6" fill-rule="evenodd" filter="url(#filter_2)" />
+      </g>
+    </g>
+    <g id="Domino-7" transform="matrix(0.809017 -0.58778524 0.58778524 0.809017 1207.9115 82.87744)">
+      <path d="M6.10352e-05 -9.65804e-12L141 -9.65804e-12L141 78.1631L6.10352e-05 78.1631L6.10352e-05 -9.65804e-12Z" id="Rectangle" fill="#4D4D4F" fill-rule="evenodd" stroke="none" filter="url(#filter_1)" />
+      <g id="Oval-4">
+        <use stroke="none" fill="#FFFFFF" xlink:href="#path_7" fill-rule="evenodd" filter="url(#filter_2)" />
+      </g>
+      <g id="Oval-6">
+        <use stroke="none" fill="#FFFFFF" xlink:href="#path_8" fill-rule="evenodd" filter="url(#filter_2)" />
+      </g>
+    </g>
+    <g id="Domino-6" transform="matrix(-0.7986355 0.6018151 -0.6018151 -0.7986355 1335.5511 256.83786)">
+      <path d="M0 0L141 0L141 78.163L0 78.163L0 0Z" id="Rectangle" fill="#4D4D4F" fill-rule="evenodd" stroke="none" filter="url(#filter_1)" />
+      <g id="Oval">
+        <use stroke="none" fill="#FFFFFF" xlink:href="#path_9" fill-rule="evenodd" filter="url(#filter_2)" />
+      </g>
+      <g id="Oval-2">
+        <use stroke="none" fill="#FFFFFF" xlink:href="#path_10" fill-rule="evenodd" filter="url(#filter_2)" />
+      </g>
+      <g id="Oval-3">
+        <use stroke="none" fill="#FFFFFF" xlink:href="#path_11" fill-rule="evenodd" filter="url(#filter_2)" />
+      </g>
+    </g>
+    <g id="Domino-4" transform="matrix(-0.6018151 -0.7986355 0.7986355 -0.6018151 1311.4658 453.56274)">
+      <path d="M2.14809e-12 0.00012207L141 0.00012207L141 78.1632L2.14809e-12 78.1632L2.14809e-12 0.00012207Z" id="Rectangle" fill="#4D4D4F" fill-rule="evenodd" stroke="none" filter="url(#filter_1)" />
+      <g id="Oval-2">
+        <use stroke="none" fill="#FFFFFF" xlink:href="#path_12" fill-rule="evenodd" filter="url(#filter_2)" />
+      </g>
+    </g>
+    <g id="Domino-3" transform="matrix(-0.73135376 -0.6819983 0.6819983 -0.73135376 109.757454 380.00342)">
+      <path d="M7.18215e-13 0.00012207L141 0.00012207L141 78.1632L7.18215e-13 78.1632L7.18215e-13 0.00012207Z" id="Rectangle" fill="#4D4D4F" fill-rule="evenodd" stroke="none" filter="url(#filter_1)" />
+      <g id="Oval">
+        <use stroke="none" fill="#FFFFFF" xlink:href="#path_13" fill-rule="evenodd" filter="url(#filter_2)" />
+      </g>
+      <g id="Oval-2">
+        <use stroke="none" fill="#FFFFFF" xlink:href="#path_14" fill-rule="evenodd" filter="url(#filter_2)" />
+      </g>
+      <g id="Oval-4">
+        <use stroke="none" fill="#FFFFFF" xlink:href="#path_15" fill-rule="evenodd" filter="url(#filter_2)" />
+      </g>
+      <g id="Oval-3">
+        <use stroke="none" fill="#FFFFFF" xlink:href="#path_16" fill-rule="evenodd" filter="url(#filter_2)" />
+      </g>
+    </g>
+    <g id="Domino-2" transform="matrix(0.6819984 -0.7313537 0.7313537 0.6819984 64.63135 228.83911)">
+      <path d="M0 0L141 0L141 78.1631L0 78.1631L0 0Z" id="Rectangle" fill="#4D4D4F" fill-rule="evenodd" stroke="none" filter="url(#filter_1)" />
+      <g id="Oval">
+        <use stroke="none" fill="#FFFFFF" xlink:href="#path_17" fill-rule="evenodd" filter="url(#filter_2)" />
+      </g>
+      <g id="Oval-2">
+        <use stroke="none" fill="#FFFFFF" xlink:href="#path_18" fill-rule="evenodd" filter="url(#filter_2)" />
+      </g>
+      <g id="Oval-4">
+        <use stroke="none" fill="#FFFFFF" xlink:href="#path_19" fill-rule="evenodd" filter="url(#filter_2)" />
+      </g>
+      <g id="Oval-3">
+        <use stroke="none" fill="#FFFFFF" xlink:href="#path_20" fill-rule="evenodd" filter="url(#filter_2)" />
+      </g>
+    </g>
+    <g id="Domino" transform="matrix(0.7547096 0.656059 -0.656059 0.7547096 51.27942 31.575676)">
+      <path d="M0 0L141 0L141 78.1631L0 78.1631L0 0Z" id="Rectangle" fill="#4D4D4F" fill-rule="evenodd" stroke="none" filter="url(#filter_1)" />
+      <g id="Oval">
+        <use stroke="none" fill="#FFFFFF" xlink:href="#path_21" fill-rule="evenodd" filter="url(#filter_2)" />
+      </g>
+      <g id="Oval-2">
+        <use stroke="none" fill="#FFFFFF" xlink:href="#path_22" fill-rule="evenodd" filter="url(#filter_2)" />
+      </g>
+      <g id="Oval-3">
+        <use stroke="none" fill="#FFFFFF" xlink:href="#path_23" fill-rule="evenodd" filter="url(#filter_2)" />
+      </g>
+    </g>
+  </g>
+</svg>

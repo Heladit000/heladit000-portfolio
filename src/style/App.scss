@@ -1,17 +1,15 @@
 @import "@styles/colors";
 @import "@styles/responsive.scss";
 
-
 * {
   -webkit-tap-highlight-color: transparent;
+  
+  font-family: "Roboto", sans-serif;
+  list-style: none;
+  text-decoration: none;
 }
 
 body {
-  background: $primary-color;
-
-  @include desktop {
-    h1 {
-      color: blue;
-    }
-  }
+  margin: 0;
+  background: $first-background-color;
 }

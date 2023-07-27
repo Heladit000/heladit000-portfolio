@@ -1,0 +1,68 @@
+@import "@styles/colors";
+@import "@styles/fonts";
+
+.projects {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  align-items: center;
+  margin: 10em 0;
+  text-align: center;
+
+  &__cards {
+    display: grid;
+    grid-template-columns: repeat(4, 25%);
+    justify-content: center;
+    justify-items: center;
+    gap: 33px;
+    box-sizing: border-box;
+    padding: 0 13em;
+    width: 100%;
+    height: 20%;
+
+    & article:nth-child(even) {
+      position: relative;
+      bottom: -2em;
+
+      &:hover {
+        bottom: 0;
+      }
+    }
+
+    & article:nth-child(odd) {
+      position: relative;
+
+      &:hover {
+        bottom: -2em;
+      }
+    }
+  }
+
+  &__lego-brick {
+    position: absolute;
+    bottom: -7.5em;
+
+    &-left {
+      left: 4em;
+    }
+    &-right {
+      right: 4em;
+      transform: scaleX(-1);
+    }
+  }
+
+  &__title {
+    margin: 0;
+    margin-bottom: 0.5em;
+    color: $first-font-color;
+    font-size: 3rem;
+    letter-spacing: $title-spacing;
+  }
+
+  &__more {
+    position: relative;
+    bottom: -7em;
+    color: $first-exposure-color;
+    text-decoration: underline;
+  }
+}

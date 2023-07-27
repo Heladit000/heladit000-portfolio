@@ -1,0 +1,40 @@
+@import "@styles/colors";
+@import "@styles/fonts";
+
+.about {
+  display: grid;
+  position: relative;
+  grid-template-columns: 49% 51%;
+  margin-top: 11em;
+  padding-right: 10%;
+
+  &__image {
+    box-sizing: border-box;
+    padding-right: 2em;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  &__text {
+    text-shadow: 1px 1px 1px $first-background-color;
+    z-index: 2;
+    box-sizing: border-box;
+    padding: 0 1em;
+    color: $third-font-color;
+    font-weight: 100;
+    font-size: 2.1vw;
+    font-family: $second-font, serif;
+  }
+
+  &__title {
+    position: absolute;
+    top: -2.4em;
+    left: 3em;
+    z-index: 2;
+    color: $first-font-color;
+    font-size: 3.5em;
+    letter-spacing: $title-spacing;
+    text-align: right;
+  }
+}

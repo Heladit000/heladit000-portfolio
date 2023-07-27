@@ -1,1 +1,14 @@
-$primary-color: #27a2f5;
+//Global color variables can access importing
+//@import "@styles/colors" in .scss file
+
+$first-exposure-color: #00a7a1;
+$second-exposure-color: #0097a7;
+
+$first-background-color: #212121;
+$second-background-color: #000000;
+
+$first-font-color: #f7b648;
+$second-font-color: #0c343d;
+$third-font-color: #fefefe;
+
+$first-gradient-color: linear-gradient(270deg, #00a7a1 0%, #0c343d 100%);
